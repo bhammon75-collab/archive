@@ -1,0 +1,4 @@
+{
+  "title":       { "message": "Internet Archive Downloader" },
+  "description": { "message": "Download books from Internet Archive and HathiTrust as PDF or image bundles." }
+}
